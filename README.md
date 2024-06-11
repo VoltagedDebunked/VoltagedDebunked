@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Data Science and AI
 - 📫 How to reach me: Discord: Voltagedofficial / Email: Voltagedgd@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im 13 and Ukrainian, started coding 1 year ago.
+- ⚡ Fun fact: Im 14 and Ukrainian, started coding 2 year ago.
