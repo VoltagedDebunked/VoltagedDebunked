@@ -1,6 +1,4 @@
-![image (48)](https://res.cloudinary.com/daily-now/image/upload/s--owE3v0iB--/f_auto/v1718108963/ugc/content_b6bc9bfa-183f-4d16-930c-d3b9739fc3e5)
-
-
+![Voltaged's Icon](https://github.com/VoltagedDebunked/VoltagedDebunked/assets/140754373/b98462d9-a488-4b06-b33f-8261c5c1ef4d)
 # Welcome to Voltaged's Profile! 👋
 
 Hey there! I'm Voltaged, a 14-year-old software developer passionate about building cool stuff with code. With 2-3 years of experience under my belt, I've dabbled in various programming languages and love exploring new technologies.
