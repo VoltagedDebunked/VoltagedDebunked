@@ -21,7 +21,6 @@ Throughout my journey as a developer, I've worked on various projects ranging fr
 
 - **[NeuraServer](https://github.com/NeuraServer/NeuraServer):** A big pack to develop your server/service!
 - **[Voltaged's Tools](https://github.com/voltageddebunked):** Open source tools to help you get started! (They are my HTML repositories on github.)
-- **[Scatter](https://github.com/scatterjs/scatter):** An open-source framework to build blazingly fast JavaScript and simplify frontend.
 ## Get in Touch
 
 I'm always eager to collaborate on interesting projects or just have a chat about tech. Feel free to reach out to me via:
