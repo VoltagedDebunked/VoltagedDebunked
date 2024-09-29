@@ -7,13 +7,13 @@ Hey there! I'm Voltaged, a 14-year-old software developer passionate about build
 
 - **Age:** 14
 - **Experience:** 2-3 years
-- **Favorite Language:** Go (aka Golang)
-- **Languages:** Rust, Go, JavaScript, C, C++, Assembly, Elixir
+- **Favorite Language:** Rust
+- **Languages:** Rust, JavaScript, C, C++, Assembly, Elixir
 - **Location:** Ukraine
 
 ## My Interests
 
-I have a keen interest in Go programming and enjoy working with its simplicity, concurrency features, and strong ecosystem. However, I also love diving into other languages like Rust for its safety guarantees, JavaScript for its versatility, and C/C++ for system-level programming. Assembly language fascinates me for its low-level control, and Elixir provides a fresh perspective on functional programming.
+I have a keen interest in Rust programming and enjoy working with its simplicity, concurrency features, and strong ecosystem, JavaScript for its versatility, and C/C++ for system-level programming. Assembly language fascinates me for its low-level control, and Elixir provides a fresh perspective on functional programming.
 
 ## Projects
 
