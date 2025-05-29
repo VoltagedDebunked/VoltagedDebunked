@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=voltageddebunked" alt="voltageddebunked" /></a> </p>
 
-- 🔭 I’m currently working on [Zed](https://github.com/zed-coding/zed-lang)
+- 🔭 I’m currently working on VentaOS
 
-- 🌱 I’m currently learning **Game Dev**
+- 🌱 I’m currently learning **OSDev**
 
-- 👯 I’m looking to collaborate on [AlephOS](https://github.com/voltageddebunked/alephos)
-
-- 👨‍💻 All of my projects are available at [https://voltaged.dev](https://voltaged.dev)
-
-- 💬 Ask me about **Next.js, Rust,**
+- 💬 Ask me about **Next.js, Rust, OSDev**
 
 - 📫 How to reach me **rusindanilo@gmail.com**
 
