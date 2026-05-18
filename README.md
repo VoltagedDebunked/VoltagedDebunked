@@ -12,4 +12,4 @@ I'm a 14 year old programmer, interested in C, Python, ML, OSDev, etc. I have ho
 
 Thanks for viewing my profile!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltageddebunked&layout=donut-vertical&theme=shadow_green&hide_border=true&no-bg=true&no-frame=true&show_icons=true&langs_count=8"/>
+![My stats](https://github-readme-stats.vercel.app/api?username=voltageddebunked&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
