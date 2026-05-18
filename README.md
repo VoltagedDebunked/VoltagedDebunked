@@ -11,3 +11,5 @@ I'm a 14 year old programmer, interested in C, Python, ML, OSDev, etc. I have ho
 # Thanks
 
 Thanks for viewing my profile!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voltageddebunked"/>
